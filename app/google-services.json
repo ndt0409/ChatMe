@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247365876604",
+    "project_id": "chat-me-e8cea",
+    "storage_bucket": "chat-me-e8cea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247365876604:android:8b34ce614982b9b2b202f9",
+        "android_client_info": {
+          "package_name": "com.ndt.tchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247365876604-5mp5f8idnl4b4pudp5npteq3kqi136ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Kdye5hamgyLpCU9sodyrngvRPudCAAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247365876604-5mp5f8idnl4b4pudp5npteq3kqi136ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
