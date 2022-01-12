@@ -1,7 +1,8 @@
-package com.ndt.tchatapp
+package com.ndt.tchatapp.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.ndt.tchatapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
